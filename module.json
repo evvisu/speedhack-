@@ -1,0 +1,15 @@
+{
+    "name": "fast",
+    "author": "",
+    "description": "Fast Script",
+    "options": {
+        "niceName": "Fast Script",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    
+    "servers": [],
+    "disableAutoUpdate": false
+}
