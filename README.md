@@ -11,3 +11,5 @@ fuck TERA, all my homies hate TERA
 
 
 increase character attack speed
+
+type "fast" in /8 to enable 
