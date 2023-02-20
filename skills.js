@@ -14,9 +14,9 @@ module.exports.glaiver = [
 	{ "id": 11, "subId": 31, "delay": 0, "speed": 25, "hasAbn": 10155130 }, // sc 2nd hit (ragnarok)
 	{ "id": 12, "delay": 0, "speed": 40 }, // ragnarok
 	{ "id": 13, "delay": 0, "speed": 25 }, // bloodflower
-	{ "id": 14, "unlock": true } // evade
-	//{ "id": 16, "delay": 560, "speed": 0, "unlock": true }, // runeburst
-	//{ "id": 17, "delay": 0, "speed": 80, "unlock": true }, // balders
+	{ "id": 14, "unlock": true }, // evade
+	{ "id": 16, "delay": 560, "speed": 0, "unlock": true }, // runeburst
+	//{ "id": 17, "delay": 0, "speed": 80, "unlock": true } balders 
 	{ "id": 19, "delay": 0, "speed": 20, "unlock": true }, // reclamation
 	{ "id": 23, "delay": 0, "speed": 25 }, // gungnir
 	{ "id": 24, "subId": 0, "delay": 1060, "speed": 20 }, // tw1
