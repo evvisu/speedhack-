@@ -15,7 +15,7 @@ module.exports.glaiver = [
 	{ "id": 12, "delay": 0, "speed": 40 }, // ragnarok
 	{ "id": 13, "delay": 0, "speed": 25 }, // bloodflower
 	{ "id": 14, "unlock": true } // evade
-	{ "id": 16, "delay": 560, "speed": 0, "unlock": true }, // runeburst
+	//{ "id": 16, "delay": 560, "speed": 0, "unlock": true }, // runeburst
 	//{ "id": 17, "delay": 0, "speed": 80, "unlock": true }, // balders
 	{ "id": 19, "delay": 0, "speed": 20, "unlock": true }, // reclamation
 	{ "id": 23, "delay": 0, "speed": 25 }, // gungnir
